@@ -1,12 +1,12 @@
 {
-    "name": "workfront/nats",
+    "name": "sofascore/nats",
     "description": "A nats.io client in PHP",
     "type": "library",
     "minimum-stability": "dev",
     "license": "MIT",
-    "version": "2.2.3",
+    "version": "2.2.4",
     "require": {
-        "php": "^7.1"
+        "php": "^7.1||^8.0"
     },
     "require-dev": {
         "phpunit/phpunit": "5.*",
